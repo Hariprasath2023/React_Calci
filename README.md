@@ -1,8 +1,8 @@
 
 # Ex04 Simple Calculator - React Project
 
-# Name: Abishek Kannan M
-# Regno: 212224040007
+# Name: Hari prasath RK
+# Regno: 212223040055
 ## Date:17/3/26
 
 ## AIM
